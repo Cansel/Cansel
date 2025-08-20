@@ -77,7 +77,7 @@
 </div>
 
  
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
